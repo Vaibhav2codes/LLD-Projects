@@ -7,7 +7,7 @@ import Vehicle.VehicleType;
 
 import static ParkingSpot.parkingSpot.listVehiclesParked;
 
-public class main {
+public class ParkingLotSystem {
     public static void main(String[] args) throws Exception {
         //Create parking managers
         twoWheelerParkingSpotManager twoWheelerManager = new twoWheelerParkingSpotManager();
